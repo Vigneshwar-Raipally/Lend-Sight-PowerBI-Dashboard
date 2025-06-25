@@ -29,15 +29,11 @@ This repository contains a complete Power BI dashboard project designed to analy
 ```
 
 📁 Root Folder
-├── Dashboard\_Screenshots/                 # Snapshot images of Power BI dashboards
-├── Bank\_Loan\_Analysis\_CP1\_Proposal.pdf   # Initial proposal document
-├── Bank\_Loan\_Analysis\_CP1\_Report.pdf     # Final report documenting methodology and insights
 ├── Bank\_Loan\_Dashboard.pptx              # PowerPoint presentation of the dashboard
 ├── Bank\_Loan\_Data\_Analysis.sql           # SQL queries used for data analysis
 ├── Mysql\_Python\_connection.ipynb         # Python notebook for MySQL-Python integration
 ├── bank\_loan\_new\.xlsx                    # Cleaned dataset used in dashboard
 ├── bank\_loan\_uncleaned\_dataset.xlsx      # Original dataset before cleaning
-├── Bank\_Logo.png                         # Logo used in dashboard and presentation
 └── Lend-Sight-Interactive-Bank-Loan-Analytics-Dashboard.pptx  # Final PPT
 
 ```
