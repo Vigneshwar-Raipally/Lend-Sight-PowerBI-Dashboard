@@ -17,8 +17,8 @@ This repository contains a complete Power BI dashboard project designed to analy
 
 | Tool      | Purpose                                  |
 |-----------|-------------------------------------------|
-| MySQL     | Data cleaning, formatting, querying       |
-| Python (Jupyter) | Cross-validation of SQL KPIs     |
+| MySQL     | Cross-validation of PowerBI KPIs, querying       |
+| Python (Jupyter) | Data cleaning, formatting     |
 | Power BI  | Interactive dashboard and visual insights |
 | Excel/CSV | Data source (`bank_loan_new.csv`)         |
 
